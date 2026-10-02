@@ -31,7 +31,7 @@ APIs • Web Tools • Automation
 <img src="https://img.shields.io/badge/Facebook-0B1220?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
 </a> 
 
-<a href="YOUR_TIKTOK_LINK">
+<a href="https://www.tiktok.com/@primemaruf_01">
 <img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok">
 </a> 
 

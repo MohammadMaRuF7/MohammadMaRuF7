@@ -19,7 +19,7 @@ APIs • Web Tools • Automation
 
 <div align="center">🌐 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
 
-<br><a href="YOUR_TELEGRAM_LINK">
+<br><a href="https://t.me/maruf_1246">
 <img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram">
 </a> 
 

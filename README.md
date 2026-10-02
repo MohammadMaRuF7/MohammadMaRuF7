@@ -23,7 +23,7 @@ APIs • Web Tools • Automation
 <img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram">
 </a> 
 
-<a href="YOUR_WHATSAPP_LINK">
+<a href="https://wa.me/maruf_1718">
 <img src="https://img.shields.io/badge/WhatsApp-0B1220?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
 </a> 
 

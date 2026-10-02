@@ -35,7 +35,7 @@ APIs • Web Tools • Automation
 <img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok">
 </a> 
 
-<a href="https://github.com/primemaruf7">
+<a href="https://github.com/MohammadMaRuF7">
 <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a></div><br>---
 
